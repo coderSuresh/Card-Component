@@ -1,3 +1,5 @@
 # Card-Component
-Card Component Challenge 2021/05/29
+Card Component made by using HTML and CSS (Not responsive. Designed for Desktop only)
 Created using HTML and CSS only
+
+Live Preview: https://card-cha.web.app/
